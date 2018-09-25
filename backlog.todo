@@ -1,5 +1,4 @@
 [ ] eslint plugin
-[ ] editor configuration (tabs, spaces, etc.)
 [ ] project browsing (project folder browsing)
 [ ] buffer browsing (open buffer navigation)
 [ ] code-browsing (navigating within code, and exploring declarations, outlines, etc)
@@ -7,3 +6,4 @@
 [ ] refactoring
 [ ] comments
 [X] TODO Plugin
+[X] editor configuration (tabs, spaces, etc.)

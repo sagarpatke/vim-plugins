@@ -1,3 +1,6 @@
 [submodule "start/vim-todo-lists"]
 	path = start/vim-todo-lists
 	url = https://github.com/aserebryakov/vim-todo-lists.git
+[submodule "start/editorconfig-vim"]
+	path = start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
